@@ -1,3 +1,4 @@
+#MULTI-CLOUD-ARCHITECTURE
 #Company: CodTech IT Solutions #Intern Name: HEMAPRIYA A #Intern ID: CT04DG693 #Domain: Cloud Computing #Duration: 4 Weeks #Mentor: Neela Santosh
 
 As part of my final task at CodTech IT Solutions, I was assigned to design and demonstrate a multi-cloud architecture that integrates services across two cloud providers — Amazon Web Services (AWS) and Google Cloud Platform (GCP). The goal of this task was to gain practical exposure to cross-cloud interoperability, redundancy, and resource distribution, which are core concepts in real-world enterprise cloud deployments.
